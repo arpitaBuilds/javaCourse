@@ -1,0 +1,8 @@
+package q10860;
+import java.math.BigDecimal;
+public class BigDecimalUsage {
+	public static void main(String[] args) {
+		BigDecimal x = new BigDecimal("3.14159265358");
+		System.out.print(x);
+	}
+}
